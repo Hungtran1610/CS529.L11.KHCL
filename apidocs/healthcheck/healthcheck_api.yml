@@ -1,0 +1,6 @@
+tags:
+    - Health check API
+summary: Get Health check server status
+responses:
+    200:
+        description: data of the order
