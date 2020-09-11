@@ -19,15 +19,13 @@ SWAGGER_CONFIG = {
         "title": "RockSearch API",
         "description": "Description: API For Project CS529.L11.KHCL \n Developed By: 陳金興 \n Docs written by: 陳金興 \n Person taking all the abusive and boclotsuclaodong: 陳金興 \n save 陳金興 from boclotsuclaodong \n 我太累了 \n 睏得睜不開眼來",
         "contact": {
-            "name": "Rockship",
-            "email": "hung.tran@rockship.co",
-            "url": "http://rockship.co/#",
+            "name": "A Xing",
+            "email": "18520811@gm.uit.ededu.vn",
         },
         "license": {
             "name": "Apache 2.0",
             "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
         },
-        "termsOfService": "http://rockship.co/#",
         "version": "1.0.0",
     },
     "consumes": [

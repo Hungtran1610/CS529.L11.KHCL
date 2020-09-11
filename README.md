@@ -7,6 +7,7 @@
 # API Service
 * cooking rescipee system
 # Documentation
+* Swagger: http://localhost:5000/apidocs/
 ## Prerequisites
 
 * Python 3.7
